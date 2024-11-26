@@ -1,1 +1,2 @@
-hello directly
+告广大老虎投资者
+老虎证券（Tiger Brokers）无基金管理能力，造成投资人本金损失
