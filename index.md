@@ -1,7 +1,7 @@
 
 # Privacy Policy for VideoInfo
 
-*Last updated: February 2025*
+*Last updated: February 2026*
 
 This Privacy Policy describes how the VideoInfo app ("we", "our", or "the app") handles information when you use our application on your Android device. We are committed to protecting your privacy.
 
@@ -45,4 +45,4 @@ We may update this Privacy Policy from time to time. The "Last updated" date at 
 
 If you have questions about this Privacy Policy or the app's practices, please contact us at:
 
-[bitliu2025@gmail.com]
+[bitliu2055@gmail.com]
